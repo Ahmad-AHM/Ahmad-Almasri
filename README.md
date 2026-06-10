@@ -1,155 +1,162 @@
-# Hello there 👋
+<!-- Banner -->
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
 
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
+<!-- Header -->
 
-* 🧐   Interested in full stack. Recent focus on Infra.
-* 💼   Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.
-* 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
-* 🌱   Currently learning Linux, Rust, Solidity, Math & Philosophy.
-* 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
-* ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV).
+<h1 align="center">Hello there 👋</h1>
 
-<details>
-  <summary>Some other achievements about me~e~e</summary>
+<p align="center">
+  I work on 🔋 <strong>PEM Fuel Cells (PEMFC)</strong> •
+  🤖 <strong>Machine Learning</strong> •
+  📊 <strong>MATLAB / Python / COMSOL</strong> •
+  ☀️ <strong>Renewable Energy Systems</strong> •
+  💰 <strong>Techno-Economic Analysis</strong> for research and innovation.
+</p>
+
+<p align="center">
+  I am passionate about integrating computational methods and engineering principles
+  to develop sustainable energy solutions and contribute to future energy technologies. 🌍⚡
+</p>
+
+<hr>
+
+<h2>👨‍🔬 About Me</h2>
+
+<ul>
+  <li>🧐 Interested in renewable energy technologies and interdisciplinary engineering research.</li>
+  <li>🎓 Postgraduate Researcher in Mechanical Engineering.</li>
+  <li>🔬 Research interests include PEM fuel cells, hydrogen technologies, machine learning applications in energy systems, and optimization techniques.</li>
+  <li>💻 Experienced with MATLAB, Python, COMSOL Multiphysics, PVsyst, and HAP for modeling, simulation, and analysis.</li>
+  <li>📈 Applying optimization algorithms such as Genetic Algorithms (GA) and Particle Swarm Optimization (PSO) to engineering problems.</li>
+  <li>🌱 Currently expanding my knowledge in advanced computational methods and emerging energy technologies.</li>
+  <li>✍🏻 Passionate about scientific research, lifelong learning, and sharing knowledge.</li>
+  <li>⛵ Open to research collaborations and interdisciplinary projects.</li>
+</ul>
+
+<hr>
+
+<h2>🎓 Education</h2>
+
+<ul>
+  <li>
+    <strong>M.Sc. in Mechanical Engineering (Renewable Energy)</strong><br>
+    The University of Jordan
+  </li>
+
   <br>
 
-* 💝   Be proud of Stanford. 🧸 Proud Stanford Cardinal. Die Luft der Freiheit weht. 
-* 💖   Be proud of CMU. 🐾 Proud Carnegie Mellon Tartan. My heart is in the work. 
-* 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
-* 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
+  <li>
+    <strong>B.Sc. in Mechanical Engineering (HVAC)</strong><br>
+    Al Balqa Applied University
+  </li>
+</ul>
 
-<p align="center">
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/stanford.png" height="100" width="100" style="max-width: 100%;margin-right: 5px;"/></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/CMU.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
-<a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
-</p>
-
-* 👑   Some GitHub statistical reports:
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=halfrost&column=7" alt="halfrost's Github Trophy" />
-<img align="center" src="https://github.com/halfrost/halfrost/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" />
-</p>
-
-</details>
-  
 <hr>
+
+<h2>🔬 Research Interests</h2>
+
+<p>
+  🔋 PEM Fuel Cells (PEMFC) •
+  ☀️ Renewable Energy Systems •
+  ⚡ Hydrogen Technologies •
+  🤖 Machine Learning •
+  📊 MATLAB •
+  🐍 Python •
+  🖥️ COMSOL Multiphysics •
+  📈 Optimization Algorithms (GA, PSO) •
+  🌬️ Computational Fluid Dynamics (CFD) •
+  💰 Techno-Economic Analysis
+</p>
+
+<hr>
+
+<h2>🛠️ Tools & Technologies</h2>
+
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python">
+</p>
+
+<ul>
+  <li>MATLAB</li>
+  <li>Python</li>
+  <li>COMSOL Multiphysics</li>
+  <li>PVsyst</li>
+  <li>HAP</li>
+  <li>Optimization Techniques (GA, PSO)</li>
+  <li>CFD Modeling</li>
+  <li>Machine Learning Applications for Energy Systems</li>
+</ul>
+
+<hr>
+
+<h2>🌍 Connect with Me</h2>
 
 <p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+  <a href="https://orcid.org/my-orcid?orcid=0009-0002-9574-934X">
+    <img src="https://img.icons8.com/fluency/48/orcid.png" width="40" alt="ORCID">
+  </a>
+
+  
+
+  <a href="https://www.linkedin.com/in/ahmadalmasri04/">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" alt="LinkedIn">
+  </a>
+
+  
+
+  <a href="https://scholar.google.com/citations?user=sNSlGGoAAAAJ&hl=en">
+    <img src="https://img.icons8.com/color/48/google-scholar.png" width="40" alt="Google Scholar">
+  </a>
+
+  
+
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="40" alt="GitHub">
+  </a>
 </p>
 
-<p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
-</p>
+<hr>
 
-</p>
+<h2>📊 GitHub Statistics</h2>
 
----
-
-<!--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
-  <br><br>
-  <samp>
-  </samp>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+  >
 </p>
 
-<p float="left">
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
-  </a>
-  <a href="https://helm.sh/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
-  </a>
-  <a href="https://grpc.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
-  </a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
- </p>
-  
-### CSPs
-  
- <p float="left">
-  <a href="https://bit.ly/2W7a91W" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
- </p>
-  
-### Monitoring
-  
- <p float="left">
-  <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
-  </a>
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
-  </a>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact"
+    alt="Top Languages"
+  >
 </p>
 
-### Databases
-  
- <p float="left">
-  <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
-  </a>
-  <a href="https://www.timescale.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
-  </a>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME"
+    alt="GitHub Streak"
+  >
 </p>
 
--->
+<hr>
 
-<!--
-**halfrost/halfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME"
+    alt="Visitor Badge"
+  >
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>
+    Exploring the intersection of renewable energy, hydrogen technologies,
+    and intelligent computational methods to contribute to a more sustainable future.
+  </em>
+</p>
