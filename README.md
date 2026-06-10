@@ -104,9 +104,6 @@
 
   
 
-  <a href="https://github.com/Ahmad_Almasri">
-    <img src="https://img.icons8.com/fluency/48/github.png" width="40" alt="GitHub">
-  </a>
 </p>
 
 <hr>
@@ -134,14 +131,6 @@
   >
 </p>
 
-<hr>
-
-<p align="center">
-  <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=Ahmad-Almasri.Ahmad-Almasri"
-    alt="Visitor Badge"
-  >
-</p>
 
 <hr>
 
