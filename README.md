@@ -138,7 +138,7 @@
 
 <p align="center">
   <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=Ahmad-Almasri"
+    src="https://visitor-badge.laobi.icu/badge?page_id=Ahmad-Almasri.Ahmad-Almasri"
     alt="Visitor Badge"
   >
 </p>
