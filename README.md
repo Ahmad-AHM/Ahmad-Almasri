@@ -104,7 +104,7 @@
 
   
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Ahmad_Almasri">
     <img src="https://img.icons8.com/fluency/48/github.png" width="40" alt="GitHub">
   </a>
 </p>
@@ -115,21 +115,21 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Ahmad_Almasri&show_icons=true&count_private=true&include_all_commits=true"
     alt="GitHub Stats"
   >
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad_Almasri&layout=compact"
     alt="Top Languages"
   >
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME"
+    src="https://streak-stats.demolab.com?user=Ahmad_Almasri"
     alt="GitHub Streak"
   >
 </p>
@@ -138,7 +138,7 @@
 
 <p align="center">
   <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=Ahmad-AHM / Ahmad-Almasri"
+    src="https://visitor-badge.laobi.icu/badge?page_id=Ahmad-Almasri"
     alt="Visitor Badge"
   >
 </p>
