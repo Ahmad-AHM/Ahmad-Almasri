@@ -112,25 +112,33 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ahmad_Almasri&show_icons=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Ahmad-Almasri&show_icons=true&count_private=true&include_all_commits=true"
     alt="GitHub Stats"
   >
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad_Almasri&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Almasri&layout=compact"
     alt="Top Languages"
   >
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Ahmad_Almasri"
+    src="https://streak-stats.demolab.com?user=Ahmad-Almasri"
     alt="GitHub Streak"
   >
 </p>
 
+<hr>
+
+<p align="center">
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=Ahmad-Almasri.Ahmad-Almasri"
+    alt="Visitor Badge"
+  >
+</p>
 
 <hr>
 
