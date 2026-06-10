@@ -1,8 +1,4 @@
-<!-- Banner -->
-
-<p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
-</p>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 <!-- Header -->
 
@@ -93,11 +89,6 @@
 <hr>
 
 <h2>🌍 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://orcid.org/my-orcid?orcid=0009-0002-9574-934X">
-    <img src="https://img.icons8.com/fluency/48/orcid.png" width="40" alt="ORCID">
-  </a>
 
   
 
